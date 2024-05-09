@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\OOp.exe
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\OOp.deps.json
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\OOp.runtimeconfig.json
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\OOp.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\OOp.dll
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\ref\OOp.dll
+C:\Users\Hossein\source\repos\OOp\OOp\bin\Debug\net5.0\OOp.pdb
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.dll
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\ref\OOp.dll
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.pdb
+C:\Users\Hossein\source\repos\OOp\OOp\obj\Debug\net5.0\OOp.genruntimeconfig.cache
