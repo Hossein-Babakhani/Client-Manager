@@ -9,21 +9,18 @@ namespace OOp
             Manager mng = new Manager();
             mng.Name = "John";
             Console.WriteLine("Maneger :" + mng.Name);
-            Console.WriteLine("");
 
-            Console.WriteLine("Clients Name & Points :...");
-            Console.WriteLine("");
-
+            Console.WriteLine("\n Clients Name & Points :...");
+        
             Client cl1 = mng.AddClient("Alex");
             cl1.Buy("Book1");
-            Console.WriteLine(cl1.Name);
+            Console.WriteLine("\n"+cl1.Name);
             Console.WriteLine(cl1.GetPoints());
             cl1.Buy("Bag2");
             Console.WriteLine(cl1.GetPoints());
 
-            Console.WriteLine("");
             Client cl2 = mng.AddClient("Marry");
-            Console.WriteLine(cl2.Name);
+            Console.WriteLine("\n"+cl2.Name);
             Console.WriteLine(cl2.GetPoints());
 
             Console.ReadKey();
